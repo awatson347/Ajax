@@ -1,0 +1,33 @@
+
+body  {
+     background: url('../images/avengers-wallpapers-25.jpg') center center fixed;
+    text-align: center;
+    color:white;
+
+}
+
+h1 {text-align: center;
+
+	    border: 1px solid red;
+    outline-style: groove;
+    outline-color: "white";
+    text-outline: 2px 2px #ff0000;
+
+}
+
+
+h2 {text-align: center;
+color:white;
+}
+
+p {font-size: 20px;
+color:white;
+}
+
+
+
+
+.inputForm{
+color:white;
+
+}
